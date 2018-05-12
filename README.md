@@ -5,6 +5,4 @@
 
 目前只支持reverse_tcp 其他payload请自行修改第94行代码~
 
-请一定要set payload   因为我不知道怎么去设置默认的......
-
 有什么不妥之处请提交issues
