@@ -3,4 +3,4 @@
 
 配合pentestbox使用，里面的四个路径根据你的实际情况改~
 
-目前只支持reverse_tcp 其他payload请自行修改94行代码~
+目前只支持reverse_tcp 其他payload请自行修改第94行代码~
